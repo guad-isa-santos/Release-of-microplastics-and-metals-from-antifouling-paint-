@@ -15,7 +15,7 @@ Institution: McGill University
 Email: nathalie.tufenkji@mcgill.ca
 
 Associate or Co-Investigator:
-Contact Information Name: Guadalupe Santos 
+C. Contact Information Name: Guadalupe Santos 
 Institution: McGill University 
 Email: guadalupe.santos@mail.mcgill.ca
 
