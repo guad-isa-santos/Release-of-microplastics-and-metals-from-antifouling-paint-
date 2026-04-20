@@ -1,5 +1,5 @@
 # General Information
-This release contains the data used in the publication titled: "Release of microplastics and metals from antifouling paint during weathering in simulated cold climates". The dataset contains raw data and processed data files for the analysis undertaken in the paper. 
+This repository contains the data used in the publication titled: "Release of microplastics and metals from antifouling paint during weathering in simulated cold climates". The dataset contains raw data and processed data files for the analysis undertaken in the paper. 
 Title of Dataset: Detection of unlabeled nanoplastics using enhanced dark field hyperspectral microscopy
 
 Author Information 
